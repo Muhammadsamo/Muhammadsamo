@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammadsamo
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
