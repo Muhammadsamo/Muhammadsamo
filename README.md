@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammadsamo
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning backend and enhancing my frontend skills.
+- 🌱 I’m currently working as a Front-end Developer at Contive.ai 
 - 💞️ I’m looking to collaborate on MERN/MEVN stack Development.
 - 📫 How to reach me Muhammadsamo1996@gmail.com
 
